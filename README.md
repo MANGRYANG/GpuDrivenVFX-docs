@@ -8,7 +8,7 @@
 [![GpuDrivenVFX](https://img.shields.io/badge/GpuDrivenVFX-Repository-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI%2BPHBhdGggZmlsbD0iI2ZmNTcyMiIgZD0iTTYgNmgxNnYxNkg2eiIvPjxwYXRoIGZpbGw9IiM0Y2FmNTAiIGQ9Ik0yNiA2aDE2djE2SDI2eiIvPjxwYXRoIGZpbGw9IiNmZmMxMDciIGQ9Ik0yNiAyNmgxNnYxNkgyNnoiLz48cGF0aCBmaWxsPSIjMDNhOWY0IiBkPSJNNiAyNmgxNnYxNkg2eiIvPjwvc3ZnPg%3D%3D&logoWidth=22)](https://github.com/MANGRYANG/GpuDrivenVFX)
 
 ### 문서 저장소
-[![PixelOS Docs](https://img.shields.io/badge/GpuDrivenVFX-Documentation-purple?style=for-the-badge&logo=obsidian)](https://github.com/MANGRYANG/PixelOS-docs)
+[![GpuDrivenVFX Docs](https://img.shields.io/badge/GpuDrivenVFX-Documentation-purple?style=for-the-badge&logo=obsidian)](https://github.com/MANGRYANG/PixelOS-docs)
 
 ---
 
