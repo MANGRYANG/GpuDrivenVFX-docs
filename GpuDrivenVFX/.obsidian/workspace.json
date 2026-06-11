@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "d138b162e1489b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce49da393227c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb12c816a417434",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/프로젝트 한눈에 보기.canvas",
+                "viewState": {
+                  "x": 8879.755808950189,
+                  "y": 2126.6242103556942,
+                  "zoom": -1.3333333333333333
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "프로젝트 한눈에 보기"
+            }
+          },
+          {
+            "id": "9166cfdc40d4dc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docs/GpuDrivenVFX 성능 테스트 리포트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GpuDrivenVFX 성능 테스트 리포트"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86e888d8718c0d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98122d063bc4193f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff54857f349c4e6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "e653b5b06009e315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "a64f31f4228fb560",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "cf2f80ec391eb8da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf3244a26df03b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f83192c52842d726",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GpuDrivenVFX/001. GpuDrivenVFX 프로젝트 환경 구성.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "001. GpuDrivenVFX 프로젝트 환경 구성 의 백링크"
+            }
+          },
+          {
+            "id": "490631af29555aee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GpuDrivenVFX/001. GpuDrivenVFX 프로젝트 환경 구성.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "001. GpuDrivenVFX 프로젝트 환경 구성 의 나가는 링크"
+            }
+          },
+          {
+            "id": "b7521a700f8dbbb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "329c1ede971195f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "3e8a907c0527f014",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GpuDrivenVFX/001. GpuDrivenVFX 프로젝트 환경 구성.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "001. GpuDrivenVFX 프로젝트 환경 구성 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9166cfdc40d4dc0e",
+  "lastOpenFiles": [
+    "Canvas/CPU 파티클 시스템 구조.canvas",
+    "Canvas/GPU 파티클 시스템 구조.canvas",
+    "Images/파티클 부하 단계에 따른 Update Time 변화 그래프.png",
+    "Images/파티클 부하 단계에 따른 Render Time 변화 그래프.png",
+    "Images/파티클 부하 단계에 따른 Frame Time 변화 그래프.png",
+    "Images/파티클 부하 단계에 따른 FPS 변화 그래프.png",
+    "Docs/GpuDrivenVFX 성능 테스트 리포트.md",
+    "Docs/GpuDrivenVFX 프로젝트 개요.md",
+    "GpuDrivenVFX/043. GPU Timestamp Query 기반 성능 측정.md",
+    "Canvas/프로젝트 한눈에 보기.canvas",
+    "Pasted image 20260612021212.png",
+    "TestData/particle_performance_4.csv",
+    "TestData/particle_performance.csv",
+    "TestData/particle_performance_3.csv",
+    "TestData/particle_performance_2.csv",
+    "TestData/particle_performance_1.csv",
+    "TestData",
+    "particle_performance 1.csv",
+    "particle_performance.csv",
+    "Images/Screenshot-043-02.png",
+    "Images/Screenshot-043-01.png",
+    "GpuDrivenVFX/042. 파티클 방출 평면 회전 적용.md",
+    "GpuDrivenVFX/034. Particle 성능 측정 도구 확장.md",
+    "GpuDrivenVFX/039. GPU 파티클 시스템 Particle 투명도 적용.md",
+    "Images/Screenshot-042-02.png",
+    "Images/Screenshot-042-01.png",
+    "Canvas/무제.md",
+    "GpuDrivenVFX/041. 파티클 알파 Fade 가시성 개선.md",
+    "Images/Screenshot-041-02.png",
+    "GpuDrivenVFX/037. CPU 파티클 시스템 Particle 투명도 적용.md",
+    "GpuDrivenVFX/040. 프로젝트 파일 구조 정리.md",
+    "GpuDrivenVFX/038. GPU 파티클 - 중심 방출형 Particle 형태로 변경.md",
+    "GpuDrivenVFX/036. CPU 파티클 - 중심 방출형 Particle 형태로 변경.md",
+    "GpuDrivenVFX/031. CPU ↔ GPU 모드 전환 기능 추가.md",
+    "GpuDrivenVFX/035. 성능 측정 결과 로깅 기능(CSV) 추가.md",
+    "GpuDrivenVFX/033. Particle Emitter 설정 통합 관리.md",
+    "GpuDrivenVFX/032. Particle Capacity 공통 설정 분리.md",
+    "GpuDrivenVFX/030. GPU Particle spawn 범위 판정 로직 최적화.md",
+    "GpuDrivenVFX/022. CPU Particle 상태 관측.md",
+    "GpuDrivenVFX/011. 빌보드 렌더링 방식 설계.md",
+    "GpuDrivenVFX/029. GPU Particle 간접 드로우 경로 추가.md",
+    "GpuDrivenVFX/028. GPU Active Particle 필터링을 위한 추가 버퍼 전달.md",
+    "GpuDrivenVFX/027. GPU Particle spawn emitter 추가.md",
+    "GpuDrivenVFX/002. Win32 윈도우 생성 및 애플리케이션 루프 추가.md",
+    "GpuDrivenVFX/025. GPU Particle 업데이트 경로 추가.md",
+    "GpuDrivenVFX/021. CPU Particle Emitter 기본 구조 추가.md",
+    "Canvas",
+    "Images"
+  ]
+}
